@@ -1,0 +1,14 @@
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\PhantomJSChamps.deps.json
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\PhantomJSChamps.runtimeconfig.json
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\PhantomJSChamps.runtimeconfig.dev.json
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\PhantomJSChamps.dll
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\bin\Debug\netcoreapp2.0\PhantomJSChamps.pdb
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\obj\Debug\netcoreapp2.0\PhantomJSChamps.csprojResolveAssemblyReference.cache
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\obj\Debug\netcoreapp2.0\PhantomJSChamps.csproj.CoreCompileInputs.cache
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\obj\Debug\netcoreapp2.0\PhantomJSChamps.AssemblyInfoInputs.cache
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\obj\Debug\netcoreapp2.0\PhantomJSChamps.AssemblyInfo.cs
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\obj\Debug\netcoreapp2.0\PhantomJSChamps.dll
+C:\Users\jbryant64\source\repos\PhantomJSChamps\PhantomJSChamps\obj\Debug\netcoreapp2.0\PhantomJSChamps.pdb
